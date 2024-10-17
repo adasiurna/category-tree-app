@@ -1,0 +1,8 @@
+body {
+  padding: 1rem;
+}
+
+ul {
+  list-style-type: none;
+  padding-inline-start: 18px;
+}
