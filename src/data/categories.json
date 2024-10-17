@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Lorem",
+    "children": [
+      {
+        "id": 2,
+        "name": "Ipsum",
+        "children": []
+      },
+      {
+        "id": 3,
+        "name": "Dolor",
+        "children": [
+          {
+            "id": 2,
+            "name": "Orci",
+            "children": [
+              {
+                "id": 2,
+                "name": "Quis",
+                "children": [
+                  {
+                    "id": 2,
+                    "name": "Odio",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Sit",
+        "children": [
+          {
+            "id": 2,
+            "name": "Amet",
+            "children": []
+          },
+          {
+            "id": 2,
+            "name": "Consectetur",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Adipiscing",
+        "children": [
+          {
+            "id": 2,
+            "name": "Elit",
+            "children": [
+              {
+                "id": 2,
+                "name": "Vestibulum",
+                "children": []
+              },
+              {
+                "id": 2,
+                "name": "Vitae",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
